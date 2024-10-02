@@ -2,6 +2,7 @@ package net.lilyofthevoid.nullbound;
 
 import net.fabricmc.api.ModInitializer;
 
+import net.lilyofthevoid.nullbound.block.ModBlocks;
 import net.lilyofthevoid.nullbound.item.ModItems;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -13,5 +14,6 @@ public class Nullbound implements ModInitializer {
 	@Override
 	public void onInitialize() {
 		ModItems.registerModItems();
+		ModBlocks.registerModBlocks();
 	}
 }
