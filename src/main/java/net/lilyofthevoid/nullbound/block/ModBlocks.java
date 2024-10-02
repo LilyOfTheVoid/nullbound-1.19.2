@@ -17,7 +17,7 @@ import org.apache.commons.lang3.ObjectUtils;
 
 public class ModBlocks {
     public static final Block CRYSTAL_VOID = registerBlock("crystal_void",
-            new Block(FabricBlockSettings.of(Material.AMETHYST).strength(4f).requiresTool()), ModItemGroup.NULLBOUND);
+            new Block(FabricBlockSettings.of(Material.AMETHYST).strength(2f).requiresTool()), ModItemGroup.NULLBOUND);
 
     public static final Block SEEPING_IMMATERIAL = registerBlock("seeping_immaterial",
             new OreBlock(FabricBlockSettings.of(Material.STONE).hardness(50).strength(4f).luminance(6).requiresTool(),
