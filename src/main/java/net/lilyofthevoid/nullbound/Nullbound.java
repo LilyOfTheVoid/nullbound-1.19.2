@@ -6,7 +6,7 @@ import net.lilyofthevoid.nullbound.block.ModBlocks;
 import net.lilyofthevoid.nullbound.item.ModItems;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-// Test
+// Hoping this all works...
 public class Nullbound implements ModInitializer {
 	public static final String MOD_ID = "nullbound";
 	public static final Logger LOGGER = LoggerFactory.getLogger(MOD_ID);

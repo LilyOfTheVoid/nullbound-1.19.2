@@ -3,5 +3,8 @@
   "item.nullbound.void_crystal": "Crystallized Void",
   "item.nullbound.void_chunk": "Polished Void",
 
+  "block.nullbound.crystal_void": "Crystallized Void",
+  "block.nullbound.seeping_immaterial": "Seeping Immaterial",
+
   "itemGroup.nullbound.nullbound": "Nullbound: Into the Void"
 }

@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "nullbound:block/seeping_immaterial" }
+  }
+}
