@@ -13,15 +13,15 @@ import net.minecraft.item.ItemGroup;
 import net.minecraft.util.Identifier;
 import net.minecraft.util.math.intprovider.UniformIntProvider;
 import net.minecraft.util.registry.Registry;
-import org.apache.commons.lang3.ObjectUtils;
+
 
 public class ModBlocks {
-    public static final Block CRYSTAL_VOID = registerBlock("crystal_void",
+    public static final Block CRYSTAL_VOID_BLOCK = registerBlock("crystal_void_block",
             new Block(FabricBlockSettings.of(Material.AMETHYST).strength(2f).requiresTool()), ModItemGroup.NULLBOUND);
 
     public static final Block SEEPING_IMMATERIAL = registerBlock("seeping_immaterial",
             new OreBlock(FabricBlockSettings.of(Material.STONE).hardness(50).strength(4f).luminance(6).requiresTool(),
-                    UniformIntProvider.create(3, 7)), ModItemGroup.NULLBOUND);
+                    UniformIntProvider.create(1, 3)), ModItemGroup.NULLBOUND);
 
 
     private static Block registerBlock(String name, Block block, ItemGroup tab) {

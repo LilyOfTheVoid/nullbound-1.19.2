@@ -1,9 +1,9 @@
 {
   "item.nullbound.void_dust": "Void Dust",
-  "item.nullbound.void_crystal": "Crystallized Void",
-  "item.nullbound.void_chunk": "Polished Void",
+  "item.nullbound.void_crystal": "Void Shard",
+  "item.nullbound.void_chunk": "Polished Void Shard",
 
-  "block.nullbound.crystal_void": "Crystallized Void",
+  "block.nullbound.crystal_void_block": "Crystallized Void Block",
   "block.nullbound.seeping_immaterial": "Seeping Immaterial",
 
   "itemGroup.nullbound.nullbound": "Nullbound: Into the Void"

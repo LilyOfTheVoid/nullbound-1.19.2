@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "nullbound:crystal_void_block"
+    }
+  ],
+  "result": {
+    "item": "nullbound:void_crystal",
+    "count": 9
+  }
+}

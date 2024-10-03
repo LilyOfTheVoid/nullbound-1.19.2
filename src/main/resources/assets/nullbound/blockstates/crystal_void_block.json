@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "nullbound:block/crystal_void_block" }
+  }
+}

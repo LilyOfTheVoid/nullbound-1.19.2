@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "nullbound:void_crystal"
+  },
+  "result": "nullbound:void_dust",
+  "count": 2
+}

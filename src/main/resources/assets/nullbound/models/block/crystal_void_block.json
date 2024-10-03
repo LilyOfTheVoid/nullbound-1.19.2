@@ -1,6 +1,6 @@
 {
   "parent": "block/cube_all",
   "textures": {
-    "all": "nullbound:block/crystal_void"
+    "all": "nullbound:block/crystal_void_block"
   }
 }

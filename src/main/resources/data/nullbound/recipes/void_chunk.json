@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#@#",
+    "$X$",
+    "#@#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:paper"
+    },
+    "X": {
+      "item": "nullbound:void_crystal"
+    },
+    "$": {
+      "item": "minecraft:popped_chorus_fruit"
+    },
+    "@": {
+      "item": "minecraft:ender_eye"
+    }
+  },
+  "result": {
+    "item": "nullbound:void_chunk",
+    "count": 1
+  }
+}
