@@ -16,6 +16,7 @@ public class ModItems {
             new Item(new FabricItemSettings().group(ModItemGroup.NULLBOUND)));
 
 
+
     private static Item registerItem(String name, Item item) {
         return Registry.register(Registry.ITEM, new Identifier(Nullbound.MOD_ID, name), item);
     }
